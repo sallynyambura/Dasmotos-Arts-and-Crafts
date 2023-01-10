@@ -1,0 +1,32 @@
+#Main-Header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+
+
+}
+h1 {
+background-image: url("./Dasmotos_images/Dasmotos_pattern.jpeg");
+}
+.subheader {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#Brushes-Header {
+    background-color: mediumspringgreen;
+}
+#Frames-Header {
+    background-color: lightcoral;
+}
+#Paint-Header {
+    background-color: skyblue;
+}
+.Price-Range {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
